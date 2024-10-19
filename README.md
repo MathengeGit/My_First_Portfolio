@@ -1,2 +1,2 @@
 # My_First_Portfolio
-First  ALX HTML assignment
+Creating a personal portfolio webpage that effectively showcases your skills, projects, and contact information.
